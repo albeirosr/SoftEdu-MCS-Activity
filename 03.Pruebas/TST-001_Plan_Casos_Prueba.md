@@ -6,7 +6,7 @@
 - Nombre: Plan y Casos de Prueba
 - Proyecto: SoftEdu-MCS-Activity
 - Versión: 1.0
-- Estado: Aprobado para línea base inicial
+- Estado: En modificación por CR-001
 - Fecha: 09/09/2026
 - Responsable: Equipo SoftEdu-MCS-Activity
 
@@ -43,12 +43,12 @@ Datos de entrada:
 - Identificación: 1001
 - Nombre completo: Ana Pérez
 - Correo electrónico: ana@email.com
+- Telefono: 3001234567
 
-Resultado esperado:
+Resultado esperado: El sistema almacena identificación, nombre, correo y teléfono.
 
-El sistema crea correctamente el estudiante y almacena identificación, nombre completo y correo electrónico.
 
-Estado esperado: Aprobado.
+Estado esperado: Pendiente de ejecución.
 
 ### CP-02 - Consultar estudiante existente
 
