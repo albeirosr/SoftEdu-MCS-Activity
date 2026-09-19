@@ -5,16 +5,19 @@
 - Código del CI: REQ-001
 - Nombre: Especificación de Requisitos
 - Proyecto: SoftEdu-MCS-Activity
-- Versión: 1.0
-- Estado: Aprobado para línea base inicial
-- Fecha: 09/09/2026
+- Versión: 1.1
+- Estado: En modificacion por CR-0001
+- Fecha: 09/18/2026
 - Responsable: Equipo SoftEdu-MCS-Activity
+- Responsable del cambio: Revant11y
 
 ## Historial de versiones
 
 | Versión | Fecha | Descripción del cambio | Responsable |
 |---------|-------|------------------------|-------------|
 | 1.0 | 09/09/2026 | Creación inicial de la especificación de requisitos | Equipo SoftEdu-MCS-Activity |
+| 1.1 | 09/18/2026 | Se agrega el numero de telefono al estudiante segun CR-001 | Revant11y |
+
 
 ## 1. Propósito
 
