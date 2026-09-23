@@ -5,16 +5,18 @@
 - Código del CI: DIS-001
 - Nombre: Diseño del Sistema
 - Proyecto: SoftEdu-MCS-Activity
-- Versión: 1.0
-- Estado: Aprobado para línea base inicial
-- Fecha: 09/09/2026
+- Versión: 1.1
+- Estado: En modificacion por CR-001
+- Fecha: 09/18/2026
 - Responsable: Equipo SoftEdu-MCS-Activity
+- Responsable del cambio: Revant11y
 
 ## Historial de versiones
 
 | Versión | Fecha | Descripción del cambio | Responsable |
 |---------|-------|------------------------|-------------|
 | 1.0 | 09/09/2026 | Diseño inicial del sistema | Equipo SoftEdu-MCS-Activity |
+| 1.1 | 09/18/2026 | Se agrega el atributo telefono a la entidad Estudiante segun CR-001 | Revant11y |
 
 ## 1. Descripción general
 
@@ -33,6 +35,7 @@ La entidad Estudiante contiene inicialmente los siguientes atributos:
 - identificacion
 - nombreCompleto
 - correoElectronico
+- telefono
 
 ### Curso
 
