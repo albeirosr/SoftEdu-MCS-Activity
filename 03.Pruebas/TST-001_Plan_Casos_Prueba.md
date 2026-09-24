@@ -5,16 +5,18 @@
 - Código del CI: TST-001
 - Nombre: Plan y Casos de Prueba
 - Proyecto: SoftEdu-MCS-Activity
-- Versión: 1.0
+- Versión: 1.1
 - Estado: En modificación por CR-001
-- Fecha: 09/09/2026
+- Fecha: 09/23/2026
 - Responsable: Equipo SoftEdu-MCS-Activity
+- Responsable del cambio:Revant11y
 
 ## Historial de versiones
 
 | Versión | Fecha | Descripción del cambio | Responsable |
 |---------|-------|------------------------|-------------|
 | 1.0 | 09/09/2026 | Creación inicial del plan y casos de prueba | Equipo SoftEdu-MCS-Activity |
+| 1.1 | 09/23/2026 | Se corrige error inicial para validar atributo de telefono segun CR-001 | Revant11y |
 
 ## 1. Objetivo
 
