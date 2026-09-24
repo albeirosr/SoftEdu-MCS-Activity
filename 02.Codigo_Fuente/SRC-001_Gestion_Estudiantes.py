@@ -1,8 +1,8 @@
 # SRC-001 - Gestión de Estudiantes
-# Proyecto: SoftEdu
+# Proyecto: SoftEdu-MSC-Activity
 # Versión: 1.1
 # Estado: En modificación por CR-001
-# Fecha: 16/23/2026
+# Fecha: 9/24/2026
 # Responsable: Equipo SoftEdu-MCS-Activity
 # Responsable del cambio: Revant11y
 
