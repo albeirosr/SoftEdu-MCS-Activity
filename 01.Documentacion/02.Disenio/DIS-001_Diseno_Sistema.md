@@ -6,7 +6,7 @@
 - Nombre: Diseño del Sistema
 - Proyecto: SoftEdu-MCS-Activity
 - Versión: 1.1
-- Estado: En modificacion por CR-001
+- Estado: Aprobado para BL-002
 - Fecha: 09/18/2026
 - Responsable: Equipo SoftEdu-MCS-Activity
 - Responsable del cambio: Revant11y
@@ -17,6 +17,8 @@
 |---------|-------|------------------------|-------------|
 | 1.0 | 09/09/2026 | Diseño inicial del sistema | Equipo SoftEdu-MCS-Activity |
 | 1.1 | 09/18/2026 | Se agrega el atributo telefono a la entidad Estudiante segun CR-001 | Revant11y |
+
+Nota de actualización documental — 29/09/2026: se actualiza el estado de DIS-001 a Aprobado, conforme a la aprobación de CR-001 registrada por Revant11y en el PR #2, ya integrado en main. Se conserva la versión 1.1 y el contenido del diseño. Responsable de la actualización: SaraArias801.
 
 ## 1. Descripción general
 
@@ -86,6 +88,6 @@ La entidad Matricula contiene:
 
 ## 5. Trazabilidad de diseño
 
-Este diseño se deriva de los requisitos definidos en el elemento de configuración REQ-001 versión 1.0.
+Este diseño se deriva de los requisitos definidos en el elemento de configuración REQ-001 versión 1.1.
 
-Cualquier modificación que afecte la estructura de estudiantes, cursos o matrículas deberá evaluarse para determinar su impacto sobre este elemento de configuración.
+La versión 1.1 de DIS-001 se actualiza como consecuencia de la solicitud de cambio CR-001 - Agregar teléfono al estudiante. Cualquier modificación que afecte la estructura de estudiantes, cursos o matrículas deberá evaluarse para determinar su impacto sobre este elemento de configuración.
