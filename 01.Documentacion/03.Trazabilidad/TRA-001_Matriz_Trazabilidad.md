@@ -169,7 +169,7 @@ La versión 1.0 representa la trazabilidad correspondiente a la configuración i
 
 La versión 1.1 registra el impacto y las relaciones generadas por la solicitud de cambio CR-001 - Agregar teléfono al estudiante.
 
-CR-001 fue revisada y aprobada por MIldredDelgado e integrada en la rama main mediante el PR #2, con el commit de integración c8cd0c1.
+CR-001 fue revisada y aprobada por SaraArias801 e integrada en la rama main mediante el PR #2, con el commit de integración c8cd0c1.
 
 Esta actualización documental corrige las referencias que todavía indicaban revisión o integración pendientes. La aprobación y la integración de la implementación están registradas en el PR #2; la revisión de estas correcciones documentales quedará registrada en su propio Pull Request.
 
