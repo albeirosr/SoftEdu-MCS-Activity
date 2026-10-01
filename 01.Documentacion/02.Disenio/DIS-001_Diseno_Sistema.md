@@ -6,7 +6,7 @@
 - Nombre: Diseño del Sistema
 - Proyecto: SoftEdu-MCS-Activity
 - Versión: 1.1
-- Estado: Aprobado para BL-002
+- Estado: Aprobado.
 - Fecha: 09/18/2026
 - Responsable: Equipo SoftEdu-MCS-Activity
 - Responsable del cambio: Revant11y
