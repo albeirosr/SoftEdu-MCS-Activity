@@ -6,7 +6,7 @@
 - Nombre: Plan y Casos de Prueba
 - Proyecto: SoftEdu-MCS-Activity
 - Versión: 1.1
-- Estado: En modificación por CR-001
+- Estado: Aprobado.
 - Fecha: 09/23/2026
 - Responsable: Equipo SoftEdu-MCS-Activity
 - Responsable del cambio:Revant11y
@@ -17,6 +17,8 @@
 |---------|-------|------------------------|-------------|
 | 1.0 | 09/09/2026 | Creación inicial del plan y casos de prueba | Equipo SoftEdu-MCS-Activity |
 | 1.1 | 09/23/2026 | Se corrige error inicial para validar atributo de telefono segun CR-001 | Revant11y |
+
+Nota de actualización documental — 29/09/2026: se actualiza el estado de TST-001 a Aprobado, conforme a la aprobación de CR-001 registrada por Revant11y en el PR #2, ya integrado en main. Se conserva la versión 1.1 y el contenido de los casos de prueba. Esta aprobación corresponde al documento y no registra nuevos resultados de ejecución. Responsable de la actualización: SaraArias801.
 
 ## 1. Objetivo
 
@@ -50,7 +52,7 @@ Datos de entrada:
 Resultado esperado: El sistema almacena identificación, nombre, correo y teléfono.
 
 
-Estado esperado: Pendiente de ejecución.
+Estado esperado: Aprobado.
 
 ### CP-02 - Consultar estudiante existente
 

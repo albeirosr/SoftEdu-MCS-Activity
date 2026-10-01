@@ -6,7 +6,7 @@
 - Nombre: Especificación de Requisitos
 - Proyecto: SoftEdu-MCS-Activity
 - Versión: 1.1
-- Estado: En modificacion por CR-0001
+- Estado: Aprobado.
 - Fecha: 09/18/2026
 - Responsable: Equipo SoftEdu-MCS-Activity
 - Responsable del cambio: Revant11y
@@ -18,6 +18,7 @@
 | 1.0 | 09/09/2026 | Creación inicial de la especificación de requisitos | Equipo SoftEdu-MCS-Activity |
 | 1.1 | 09/18/2026 | Se agrega el numero de telefono al estudiante segun CR-001 | Revant11y |
 
+Nota de actualización documental — 29/09/2026: se actualiza el estado del documento a Aprobado, conforme a la aprobación de CR-001 registrada por Revant11y en el PR #2, ya integrado en main. Se conserva la versión 1.1 y el contenido de los requisitos. Responsable de la actualización: SaraArias801.
 
 ## 1. Propósito
 
@@ -36,6 +37,7 @@ El sistema deberá permitir registrar un estudiante con los siguientes datos:
 - Número de identificación
 - Nombre completo
 - Correo electrónico
+- Numero de teléfono
 
 Criterio de aceptación:
 
